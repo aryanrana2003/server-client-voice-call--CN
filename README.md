@@ -87,7 +87,7 @@ The server script (`server.py`) listens for incoming client connections. It mana
 
 - **Encryption and Security:**
   - Implement SSL/TLS for secure communication between client and server.
-  - Encrypt audio data to protect privacy and prevent unauthorized access.
+  - Encrypt audio data to protect privacy and prevent unauthorized acc  ess.
 
 - **GUI Integration:**
   - Develop a graphical user interface (GUI) for both client and server applications.
